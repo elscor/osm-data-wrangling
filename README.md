@@ -1,4 +1,4 @@
-# Data Analyst Nanodegree Project 3: Data Wrangling
+# Data Analyst Nanodegree Project: Data Wrangling
 
 ## Final Report
 
